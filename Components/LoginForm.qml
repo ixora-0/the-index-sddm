@@ -1,5 +1,5 @@
-import QtQuick
-import QtQuick.Layouts
+import QtQuick 2.11
+import QtQuick.Layouts 1.11
 import SddmComponents 2.0 as SDDM
 import Qt5Compat.GraphicalEffects 1.0
 
