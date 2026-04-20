@@ -1,6 +1,7 @@
 import QtQuick
 import QtQuick.Layouts
 import SddmComponents 2.0 as SDDM
+import Qt5Compat.GraphicalEffects
 
 ColumnLayout {
     id: formContainer
